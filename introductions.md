@@ -3,6 +3,7 @@
 ## Intern Name: Abdullah
     - Background: Computer Science student & Automation Engineer
     - Goals: To master GIT
+    - Assessment 2 Abdullah
 
 ## Intern Name: Sarah
 - Background: 2nd semester student at FAST Isb
